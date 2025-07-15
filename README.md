@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋🏽, I'm Sabarna Saha</h1>
+<h1 align="center">Hi 👋🏽, I'm Dipan Mondal</h1>
 <h3 align="center">AI Engineer | Tech Enthusiast | Problem Solver</h3>
 
 <img align='right' src="https://github.com/DipanMondal/DipanMondal/blob/main/Screenshot%202024-11-18%20020527.png" width="100">
 
 🚀 I’m currently working on **deep learning models and optimization algorithms**<br>
-🔭 Ask me about **Python, C++, Machine Learning**<br>
+🔭 Ask me about **Python, C++, Machine Learning, DSA**<br>
 🎯 Actively solving problems on <a href="https://leetcode.com/u/DM_7896/">LeetCode</a><br>
 👨‍💻 I'm currently hustling on projects and contributing to open source<br>
-📫 You can reach me at **sabarna.saha1308@gmail.com**<br>
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sabarnasaha/) | [Twitter](https://x.com/_sabarna_sh)<br>
+📫 You can reach me at **idipan2003@@gmail.com**<br>
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/dipan-mondal/)<br>
 
 <div align="center">
 
@@ -53,6 +53,6 @@
 ---
 
 ###  LeetCode Stats
-<a href="https://leetcode.com/u/TryExcept/"><img src="https://leetcard.jacoblin.cool/TryExcept?theme=light&font=Happy%20Monkey&ext=heatmap" /></a>
+<a href="https://leetcode.com/u/DM_7896/"><img src="https://leetcard.jacoblin.cool/DM_7896/?theme=light&font=Happy%20Monkey&ext=heatmap" /></a>
 
 ---
