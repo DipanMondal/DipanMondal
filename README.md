@@ -12,10 +12,8 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Sabarna07-tech&color=blue)
-
-| [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/linkedin/linkedin.svg" alt="LinkedIn" width="35" height="35">](https://www.linkedin.com/in/dipan-mondal/) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/x/x.svg" alt="X" width="35" height="35">](https://x.com/_sabarna_sh) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/gmail/gmail.svg" alt="Gmail" width="35" height="35">](mailto:idipan2003@gmail.com) |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/linkedin/linkedin.svg" alt="LinkedIn" width="35" height="35">](https://www.linkedin.com/in/dipan-mondal/) | [<img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/gmail/gmail.svg" alt="Gmail" width="35" height="35">](mailto:idipan2003@gmail.com) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 </div>
 
