@@ -48,3 +48,12 @@
 <a href="https://leetcode.com/u/DM_7896/"><img src="https://leetcard.jacoblin.cool/DM_7896?theme=dark&font=Oranienbaum&ext=heatmap" /></a>
 
 ---
+---
+
+### 🍲 CodeChef Stats
+
+<a href="https://www.codechef.com/users/dm7896">
+  <img src="https://cp-logo.vercel.app/codechef/dm7896?logo=true&theme=dark" alt="CodeChef profile" />
+</a>
+
+---
