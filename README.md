@@ -40,8 +40,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" />
-  <img src="https://chroma-db.com/logo.svg" width="40" />
-  <img src="https://faais.org/logo.svg" width="40" />
 </p>
 
 ---
