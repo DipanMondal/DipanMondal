@@ -22,7 +22,7 @@
 ---
 
 ###  GitHub Stats
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=Sabarna07-tech&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarna07-tech&layout=compact&theme=radical" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=DipanMondal&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipanMondal&layout=compact&theme=radical" /> |
 | --- | --- |
 
 ---
@@ -53,6 +53,6 @@
 ---
 
 ###  LeetCode Stats
-<a href="https://leetcode.com/u/DM_7896/"><img src="https://leetcard.jacoblin.cool/DM_7896/?theme=light&font=Happy%20Monkey&ext=heatmap" /></a>
+<a href="https://leetcode.com/u/DM_7896/"><img src="https://leetcard.jacoblin.cool/DM_7896?theme=dark&font=Oranienbaum&ext=heatmap" /></a>
 
 ---
