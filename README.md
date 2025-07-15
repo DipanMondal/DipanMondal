@@ -56,7 +56,7 @@
   <img src="https://codechef-readme-stats.vercel.app/api/info?user=dm7896&theme=dark" />
 </a>
 
-<a href="https://www.codechef.com/users/your_username">
+<a href="https://www.codechef.com/users/dm7896">
   <img src="https://codechef-readme-stats.vercel.app/api/contests?user=dm7896&theme=dark" />
 </a>
 
