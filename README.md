@@ -53,7 +53,7 @@
 ### 🍲 CodeChef Stats
 
 <a href="https://www.codechef.com/users/dm7896">
-  <img src="https://github.com/DipanMondal/DipanMondal/blob/main/codechef-profile.png" alt="CodeChef Profile Screenshot" width="600"/>
+  <img src="https://github.com/DipanMondal/DipanMondal/blob/main/codechef-profile.PNG" alt="CodeChef Profile Screenshot" width="600"/>
 </a>
 
 ---
