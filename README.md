@@ -48,7 +48,6 @@
 <a href="https://leetcode.com/u/DM_7896/"><img src="https://leetcard.jacoblin.cool/DM_7896?theme=dark&font=Oranienbaum&ext=heatmap" /></a>
 
 ---
----
 
 ### 🍲 CodeChef Stats
 
